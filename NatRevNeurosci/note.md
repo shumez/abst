@@ -1,14 +1,14 @@
 <!--
 Filename: 	note.md
-Project: 	/Users/shume/Developer/abst/RevNeurosci
+Project: 	/Users/shume/Developer/abst/NatRevNeurosci
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-06-22 11:20:0
-Modified: 	2019-06-22 14:39:30
+Modified: 	2019-06-23 17:02:31
 -----
 Copyright (c) 2019 shumez
 -->
 
-# [Review Neuroscience]
+# [Nature Reviews Neuroscience]
 
 ## Contents
 
@@ -18,7 +18,7 @@ Copyright (c) 2019 shumez
 
 
 ##
-[Review Neuroscience]: https://www.nature.com/nrn/volumes/20
+[Nature Review Neuroscience]: https://www.nature.com/nrn/volumes
 [2019]: https://www.nature.com/nrn/volumes/20
 
 <!-- ref -->
