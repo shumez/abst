@@ -3,38 +3,38 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/abst
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-06-21 20:57:4
-Modified: 	2019-07-01 16:51:47
+Modified: 	2019-07-01 17:09:57
 -----
 Copyright (c) 2019 shumez
 -->
 
 # Abstract
 
-| Publisher | Journal                               | Freq  | Date      |
-|-----------|---------------------------------------|-------|-----------|
-| Nature    | [Neuroscience]                        | 1/mo  | last Mon
-|           | [Reviews Neuroscience]                | 1/mo  |
-| Cell      | [Neuron]                              | 1/2w  | 1^st^,3^rd^ Wed   |
-|           | [Trends in Cognitive Science]         | 1/mo  | 3^rd^ week    |
-|           | [Trends in Neuroscience]              | 1/mo  | 4^th^ Wed     |
-| Elsevier  | [NeuroImage]                          | 1/2w  | 1^st^,15^th^
-|           | [Cortex]                              | 1/mo  |
-| Oxford    | [Brain]                               | 1/mo  | 1^st^ Fri
-|           | [Journal of Complex Networks]         | 1/2mo | 4^th^ Sat
-| MIT       | [Journal of Cognitive Neuroscience]   | 1/mo  | 1^st^ Sat
-|           | [Network Neuroscience]                | 1/3mo | 
-| SfN       | [Journal of Neuroscience]             | 1/w   |
+| Publisher | Journal               | Freq  | Date      |
+|-----------|-----------------------|-------|-----
+| Nature    | [Neurosci]            | 1/mo  | last Mon
+|           | [Rev Neurosci]        | 1/mo  |
+| Cell      | [Neuron]              | 1/2w  | 1^st^,3^rd^ Wed
+|           | [Trends in Cogn Sci]  | 1/mo  | 3^rd^ week
+|           | [Trends in Neurosci]  | 1/mo  | 4^th^ Wed
+| Elsevier  | [NeuroImage]          | 1/2w  | 1^st^,15^th^
+|           | [Cortex]              | 1/mo  |
+| Oxford    | [Brain]               | 1/mo  | 1^st^ Fri
+|           | [J of Comp Netw]      | 1/2mo | 4^th^ Sat
+| MIT       | [J of Cogn Neurosci]  | 1/mo  | 1^st^ Sat
+|           | [Netw Neurosci]       | 1/3mo | 
+| SfN       | [J of Neurosci]       | 1/w   |
 
 ##
 <!-- ref -->
 <!-- Nature -->
-[Neuroscience]: NatNeurosci/
-[Reviews Neuroscience]: NatRevNeurosci/
+[Neurosci]: NatNeurosci/
+[Rev Neurosci]: NatRevNeurosci/
 
 <!-- Cell -->
 [Neuron]: Neuron/
-[Trends in Cognitive Science]: TrendsCognSci/
-[Trends in Neuroscience]: TrendsNeurosci/
+[Trends in Cogn Sci]: TrendsCognSci/
+[Trends in Neurosci]: TrendsNeurosci/
 
 <!-- Elsevier -->
 [NeuroImage]: NeuroImage/
@@ -42,11 +42,11 @@ Copyright (c) 2019 shumez
 
 <!-- Oxford -->
 [Brain]: Brain/
-[Journal of Complex Networks]: JCompNetw/
+[J of Comp Netw]: JCompNetw/
 
 <!-- MIT -->
-[Journal of Cognitive Neuroscience]: JCognNeurosci/
-[Network Neuroscience]: NetwNeurosci/
+[J of Cogn Neurosci]: JCognNeurosci/
+[Netw Neurosci]: NetwNeurosci/
 
 <!-- SfN -->
-[Journal of Neuroscience]: JNeurosci/
+[J of Neurosci]: JNeurosci/
